@@ -1,0 +1,1 @@
+findcrypt2 is an IDA Pro plug-in written by Ilfak Guilfanov that searches for cryptographic constants used by many different algorithm in memory. x86/x64 processors can perform AES encryption/decryption without referencing the constants by using AES-specific MMX instructions. This plug-in adds support for finding MMX AES instructions in x86/x64 binaries.
